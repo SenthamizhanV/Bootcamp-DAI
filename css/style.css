@@ -1582,7 +1582,7 @@ mark {
 
 .schedule-table-tab .nav-tabs .nav-item {
 	border-right: 1px solid #e7e7e8;
-	width: 18%;
+	width: 15%;
 	text-align: center;
 }
 
@@ -1591,7 +1591,7 @@ mark {
 }
 
 .schedule-table-tab .nav-tabs .nav-item .nav-link {
-	padding: 15px 0;
+	padding: 22px 0;
 	border: none;
 	border-top-left-radius: 0;
 	border-top-right-radius: 0;
