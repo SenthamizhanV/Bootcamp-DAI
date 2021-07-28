@@ -407,7 +407,7 @@ mark {
 
 .hero-section .hero-text span {
 	font-size: 16px;
-	color: #f44949;
+	color: #cc6161;
 	text-transform: uppercase;
 	letter-spacing: 2px;
 }
@@ -428,6 +428,13 @@ mark {
 	font-weight: 600;
 	margin-top: 0px;
 	margin-bottom: 35px;
+}
+
+.hero-section .hero-text h5 {
+	font-size: 24px;
+	color:	#f17f7f;
+	line-height: 30px;
+	font-weight: 600;
 }
 
 /*---------------------
